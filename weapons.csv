@@ -1,0 +1,38 @@
+Weapon Name,Cost,Damage,Weapon Type,Melee or Ranged
+Club,1 sp,1d4 ,Simple,Melee
+Dagger,2 gp,1d4 ,Simple,Melee - Ranged
+Greatclub,2 sp,1d8,Simple,Melee
+Handaxe,5 gp,1d6,Simple,Melee - Ranged
+Javelin,5 sp,1d6,Simple,Melee - Ranged
+Light Hammer,2 gp,1d4 ,Simple,Melee - Ranged
+Mace,5 gp,1d6,Simple,Melee
+Quarterstaff ,2 sp,1d6,Simple,Melee
+Sickle,1 gp,1d4 ,Simple,Melee
+Spear,1 gp,1d6,Simple,Melee - Ranged
+Light Crossbow,25 gp,1d8,Simple,Ranged
+Dart ,5 cp,1d4 ,Simple,Ranged
+Shortbow ,25 gp,1d6,Simple,Ranged
+Sling,1 sp,1d4 ,Simple,Ranged
+Battleaxe,10 gp,1d8,Martial,Melee
+Flail,10 gp,1d8,Martial,Melee
+Glaive,20 gp,1d10,Martial,Melee
+Greataxe,30 gp,1d12,Martial,Melee
+Greatsword,50 gp,2d6,Martial,Melee
+Halbard,20 gp,1d10,Martial,Melee
+Lance,10 gp,1d12,Martial,Melee
+Longsword,15 gp,1d8,Martial,Melee
+Maul,10 gp,2d6,Martial,Melee
+Morningstar,15 gp,1d8,Martial,Melee
+Pike,5 gp,1d10,Martial,Melee
+Rapier,25 gp,1d8,Martial,Melee
+Scimitar,25 gp,1d6,Martial,Melee
+Shortsword,10 gp,1d6,Martial,Melee
+Trident,5 gp,1d6,Martial,Melee - Ranged
+War Pick,5 gp,1d8,Martial,Melee
+Warhammer,15 gp,1d8,Martial,Melee
+Whip,2 gp,1d4 ,Martial,Melee
+Blowgun,10 gp,(see Dart),Martial,Ranged
+Hand Crossbow,75 gp,1d6,Martial,Ranged
+Heavy Crossbow,50 gp,1d10,Martial,Ranged
+Longbow,50 gp,1d8,Martial,Ranged
+Net,1 gp,0,Martial,Ranged

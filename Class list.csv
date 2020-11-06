@@ -1,0 +1,13 @@
+Classes,Hit Die,Primary Stat,Weapon List
+Barbarian,d12,Strength,Simple - Martial
+Bard,d8,Charsima,Simple - Hand Crossbow - Longsword - Rapier - Shortsword
+Cleric,d8,Wisdom,Simple
+Druid,d8,Wisdom,Club - Dagger - Dart - Javelin - Maces - Scimitars - Sickles - Sling  - Spear
+Fighter,d10,Strength - Dexterity,Simple - Martial
+Monk,d8,Dexterity - Wisdom,Simple - Shortsword
+Paladin,d10,Strength - Charsima,Simple - Martial
+Ranger,d10,Dexterity - Wisdom,Simple - Martial
+Rogue,d8,Dexterity,Simple - Hand Crossbow - Longsword - Rapier - Shortsword
+Sorcerer,d6,Charsima,Dagger - Darts - Slings - Quarterstaff - Light Crossbow
+Warlock,d8,Charsima,Simple
+Wizard,d6,Intelligence,Dagger - Darts - Slings - Quarterstaff - Light Crossbow
